@@ -12,7 +12,7 @@ namespace Monkey\MyComposerPackage\library;
 class StrUtil
 {
 
-    public function strLen($str){
+    public static function strLen($str){
         return strlen($str);
     }
 
