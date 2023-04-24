@@ -14,7 +14,7 @@
             "email": "1019887718@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {
         "php":">=5.6"
     }
