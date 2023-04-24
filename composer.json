@@ -1,5 +1,5 @@
 {
-    "name": "monkey/my_composer_package",
+    "name": "houpengfei/my_composer_package",
     "description": "my_composer_package",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "monkey",
+            "name": "houpengfei",
             "email": "1019887718@qq.com"
         }
     ],
