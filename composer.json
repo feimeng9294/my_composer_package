@@ -1,0 +1,21 @@
+{
+    "name": "monkey/my_composer_package",
+    "description": "my_composer_package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Monkey\\MyComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "monkey",
+            "email": "1019887718@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    }
+}
